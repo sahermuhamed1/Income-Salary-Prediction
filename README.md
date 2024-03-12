@@ -53,7 +53,7 @@ The project involves predicting salary categories based on various features usin
 
 Explore the salary prediction web app hosted [here](https://income-salary-prediction-t9h2zfkaxjo8udwuvtmj6p.streamlit.app/). 
 
-![Web App Preview](Saslary-Prediction-Image.png)
+![Web App Preview](Image.png)
 
 ## Kaggle Notebook
 

@@ -1,6 +1,5 @@
 ## Income Salary Prediction Data Science Project🪙
 
-*Special Thanks to Ziad Mostafa for their significant contributions to this project.*
 
 ### This project aims to predict if the income salary for anyone is more than 50.000$ per year or not!
 
